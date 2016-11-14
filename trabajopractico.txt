@@ -1,0 +1,18 @@
+1) la diferencia que existe entre los comandos cp y mv es que el primero
+permite hacer copias, y el segundo se pueden hacer dos cosas: renombrar
+archivos o mover archivos de un directorio a otro.
+
+2) El comando rm permite borrar un unico archivo o varios archivos, y el rmdir
+borra directorios completos, pero deben estar vacios.
+
+3) Quiere decir que copia archivos de forma recursiva (directorios).
+
+4) La diferencia es que touch modifica los registros de fecha y hora de los
+archivos(en caso de existir) y sino los crea, en cambio el > redirige la salida
+de un comando o programa a un archivo (sustituyendo en este caso el contenido
+entero a donde este dirigido).
+
+5) mkdir -p Analista/Programacion III,Matematica,Sistemas Operativos/Alumnos/Notas
+
+6) touch juan.txt
+   echo Juan Rodrigo > juan.txt
